@@ -1,0 +1,402 @@
+[
+  {
+    "type": "exercise",
+    "itemId": "ex1",
+    "itemTitle": "Understand ML vs AI vs Deep Learning",
+    "nodeId": "pe-1",
+    "nodeTitle": "AI Fundamentals",
+    "line": 55
+  },
+  {
+    "type": "project",
+    "itemId": "proj1",
+    "itemTitle": "Create an AI Concept Map",
+    "nodeId": "pe-1",
+    "nodeTitle": "AI Fundamentals",
+    "line": 64
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex2",
+    "itemTitle": "Write 10 Creative Prompts",
+    "nodeId": "pe-2",
+    "nodeTitle": "ChatGPT & LLM Basics",
+    "line": 105
+  },
+  {
+    "type": "project",
+    "itemId": "proj2",
+    "itemTitle": "ChatGPT Content Generator",
+    "nodeId": "pe-2",
+    "nodeTitle": "ChatGPT & LLM Basics",
+    "line": 114
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex3",
+    "itemTitle": "Chain of Thought Analysis",
+    "nodeId": "pe-3",
+    "nodeTitle": "Advanced Prompting Techniques",
+    "line": 156
+  },
+  {
+    "type": "project",
+    "itemId": "proj3",
+    "itemTitle": "Prompt Optimization Tool",
+    "nodeId": "pe-3",
+    "nodeTitle": "Advanced Prompting Techniques",
+    "line": 165
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex4",
+    "itemTitle": "Build Your First LangChain App",
+    "nodeId": "pe-4",
+    "nodeTitle": "LangChain & AI Automation",
+    "line": 207
+  },
+  {
+    "type": "project",
+    "itemId": "proj4",
+    "itemTitle": "AI Research Assistant",
+    "nodeId": "pe-4",
+    "nodeTitle": "LangChain & AI Automation",
+    "line": 216
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex5",
+    "itemTitle": "Agent Design Patterns",
+    "nodeId": "pe-5",
+    "nodeTitle": "AI Agents & Portfolio Projects",
+    "line": 250
+  },
+  {
+    "type": "project",
+    "itemId": "proj5",
+    "itemTitle": "Complete AI Portfolio Project",
+    "nodeId": "pe-5",
+    "nodeTitle": "AI Agents & Portfolio Projects",
+    "line": 259
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_bi_1",
+    "itemTitle": "ETL Mini-Project",
+    "nodeId": "bi-1",
+    "nodeTitle": "Intro to Data Warehousing",
+    "line": 301
+  },
+  {
+    "type": "project",
+    "itemId": "proj_bi_1",
+    "itemTitle": "Implement Data Pipeline",
+    "nodeId": "bi-1",
+    "nodeTitle": "Intro to Data Warehousing",
+    "line": 304
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_bi_2",
+    "itemTitle": "Query Tuning",
+    "nodeId": "bi-2",
+    "nodeTitle": "Advanced SQL Techniques",
+    "line": 318
+  },
+  {
+    "type": "project",
+    "itemId": "proj_bi_2",
+    "itemTitle": "Reporting DB",
+    "nodeId": "bi-2",
+    "nodeTitle": "Advanced SQL Techniques",
+    "line": 319
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_bi_3",
+    "itemTitle": "Build Dashboard",
+    "nodeId": "bi-3",
+    "nodeTitle": "Power BI Guide",
+    "line": 332
+  },
+  {
+    "type": "project",
+    "itemId": "proj_bi_3",
+    "itemTitle": "BI Dashboard Project",
+    "nodeId": "bi-3",
+    "nodeTitle": "Power BI Guide",
+    "line": 333
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_bi_4",
+    "itemTitle": "A/B Analysis",
+    "nodeId": "bi-4",
+    "nodeTitle": "Stats for Analysts",
+    "line": 346
+  },
+  {
+    "type": "project",
+    "itemId": "proj_bi_4",
+    "itemTitle": "Cohort Study",
+    "nodeId": "bi-4",
+    "nodeTitle": "Stats for Analysts",
+    "line": 347
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_bi_5",
+    "itemTitle": "Presentation Prep",
+    "nodeId": "bi-5",
+    "nodeTitle": "Data Storytelling",
+    "line": 360
+  },
+  {
+    "type": "project",
+    "itemId": "proj_bi_5",
+    "itemTitle": "Stakeholder Briefing",
+    "nodeId": "bi-5",
+    "nodeTitle": "Data Storytelling",
+    "line": 361
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_fda_1",
+    "itemTitle": "Accounting Basics",
+    "nodeId": "fda-1",
+    "nodeTitle": "Accounting Basics",
+    "line": 381
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_fda_2",
+    "itemTitle": "Financial Modeling & Forecasting",
+    "nodeId": "fda-1",
+    "nodeTitle": "Accounting Basics",
+    "line": 382
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_fda_3",
+    "itemTitle": "Risk & Compliance",
+    "nodeId": "fda-2",
+    "nodeTitle": "Financial Modeling & Forecasting",
+    "line": 383
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_fda_4",
+    "itemTitle": "Advanced Analytics for Finance",
+    "nodeId": "fda-3",
+    "nodeTitle": "Risk & Compliance",
+    "line": 384
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_fda_5",
+    "itemTitle": "Reporting & Stakeholder Communication",
+    "nodeId": "fda-4",
+    "nodeTitle": "Advanced Analytics for Finance",
+    "line": 385
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_erp_1",
+    "itemTitle": "ERP Fundamentals",
+    "nodeId": "erp-1",
+    "nodeTitle": "ERP Fundamentals",
+    "line": 398
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_erp_2",
+    "itemTitle": "SAP FI/CO Basics",
+    "nodeId": "erp-1",
+    "nodeTitle": "ERP Fundamentals",
+    "line": 399
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_erp_3",
+    "itemTitle": "Integration & Data Migration",
+    "nodeId": "erp-2",
+    "nodeTitle": "SAP FI/CO Basics",
+    "line": 400
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_erp_4",
+    "itemTitle": "Reporting & Compliance",
+    "nodeId": "erp-3",
+    "nodeTitle": "Integration & Data Migration",
+    "line": 401
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_erp_5",
+    "itemTitle": "Consulting & Change Management",
+    "nodeId": "erp-4",
+    "nodeTitle": "Reporting & Compliance",
+    "line": 402
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_fin_1",
+    "itemTitle": "Fintech Basics",
+    "nodeId": "erp-5",
+    "nodeTitle": "Consulting & Change Management",
+    "line": 415
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_fin_2",
+    "itemTitle": "Product Analytics",
+    "nodeId": "fin-1",
+    "nodeTitle": "Fintech Basics",
+    "line": 416
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_fin_3",
+    "itemTitle": "Risk Modeling & Fraud Detection",
+    "nodeId": "fin-2",
+    "nodeTitle": "Product Analytics",
+    "line": 417
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_fin_4",
+    "itemTitle": "Regulatory & Compliance",
+    "nodeId": "fin-3",
+    "nodeTitle": "Risk Modeling & Fraud Detection",
+    "line": 418
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_fin_5",
+    "itemTitle": "Metrics Communication & Growth",
+    "nodeId": "fin-4",
+    "nodeTitle": "Regulatory & Compliance",
+    "line": 419
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_se_1",
+    "itemTitle": "Programming Fundamentals",
+    "nodeId": "fin-5",
+    "nodeTitle": "Metrics Communication & Growth",
+    "line": 432
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_se_2",
+    "itemTitle": "Version Control & Collaboration",
+    "nodeId": "se-1",
+    "nodeTitle": "Programming Fundamentals",
+    "line": 433
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_se_3",
+    "itemTitle": "Web Fundamentals",
+    "nodeId": "se-2",
+    "nodeTitle": "Version Control & Collaboration",
+    "line": 434
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_se_4",
+    "itemTitle": "Testing & Quality",
+    "nodeId": "se-3",
+    "nodeTitle": "Web Fundamentals",
+    "line": 435
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex_se_5",
+    "itemTitle": "Software Design & Architecture",
+    "nodeId": "se-4",
+    "nodeTitle": "Testing & Quality",
+    "line": 436
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex6",
+    "itemTitle": "Variables and Data Types",
+    "nodeId": "py-1",
+    "nodeTitle": "Python Fundamentals",
+    "line": 482
+  },
+  {
+    "type": "project",
+    "itemId": "proj6",
+    "itemTitle": "Simple Calculator",
+    "nodeId": "py-1",
+    "nodeTitle": "Python Fundamentals",
+    "line": 491
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex7",
+    "itemTitle": "Design Classes",
+    "nodeId": "py-2",
+    "nodeTitle": "Functions & OOP",
+    "line": 525
+  },
+  {
+    "type": "project",
+    "itemId": "proj7",
+    "itemTitle": "Bank Account System",
+    "nodeId": "py-2",
+    "nodeTitle": "Functions & OOP",
+    "line": 534
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex8",
+    "itemTitle": "Data Cleaning & Wrangling",
+    "nodeId": "py-3",
+    "nodeTitle": "Data Analysis & pandas",
+    "line": 568
+  },
+  {
+    "type": "project",
+    "itemId": "proj8",
+    "itemTitle": "Sales Data Analysis",
+    "nodeId": "py-3",
+    "nodeTitle": "Data Analysis & pandas",
+    "line": 577
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex9",
+    "itemTitle": "Build a REST API",
+    "nodeId": "py-4",
+    "nodeTitle": "Web & APIs",
+    "line": 611
+  },
+  {
+    "type": "project",
+    "itemId": "proj9",
+    "itemTitle": "Task Management API",
+    "nodeId": "py-4",
+    "nodeTitle": "Web & APIs",
+    "line": 620
+  },
+  {
+    "type": "exercise",
+    "itemId": "ex10",
+    "itemTitle": "Performance Optimization",
+    "nodeId": "py-5",
+    "nodeTitle": "Advanced & Portfolio",
+    "line": 654
+  },
+  {
+    "type": "project",
+    "itemId": "proj10",
+    "itemTitle": "Full-Stack Data Platform",
+    "nodeId": "py-5",
+    "nodeTitle": "Advanced & Portfolio",
+    "line": 663
+  }
+]
